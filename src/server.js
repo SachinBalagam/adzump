@@ -6,7 +6,7 @@ import adsRouter from "./routes/ads.routes.js";
 dotenv.config();
 console.log(
   "API KEY from env:",
-  process.env.OPENAI_API_KEY ? "✅ Loaded" : "❌ Missing"
+  process.env.OPENAI_API_KEY ? "Loaded" : "Missing"
 );
 
 const app = express();

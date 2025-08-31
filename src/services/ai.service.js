@@ -37,8 +37,8 @@ Task:
 - Suggest an age range (like [25, 45]).
 - Suggest gender(s) ["male"], ["female"], or ["male","female"].
 - Create ONE perfect Google Search Ad with:
-    * Exactly 15 Headlines
-    * Exactly 4 Descriptions
+    * Exactly 10 Headlines(length should be less than 20 characters including spaces)
+    * Exactly 3 Descriptions(length should be less than 80 characters including spaces)
     * Must use the provided Final URL
 - Provide AT LEAST 10 relevant keywords as an array
 - Provide the business name exactly as provided in the input 
